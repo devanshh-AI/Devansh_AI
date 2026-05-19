@@ -13,7 +13,7 @@ Transition into AI Engineering in 12 months!
 ## Learning Path
 - ✅ Day 1 — Variables, Operators, Strings
 - ✅ Day 2 — Lists, Dictionaries
-- ⏳ Day 3 — Functions
+- ✅ Day 3 — Functions
 - ⏳ Day 4 — Loops
 - ⏳ Day 5 — File Handling
 - ⏳ Day 6 — Pandas
