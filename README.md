@@ -11,16 +11,16 @@
 Transition into AI Engineering in 12 months!
 
 ## Learning Path
-- ✅ Day 1 — Variables, Operators, Strings
-- ✅ Day 2 — Lists, Dictionaries
-- ✅ Day 3 — Functions
-- ⏳ Day 4 — Loops
-- ⏳ Day 5 — File Handling
-- ⏳ Day 6 — Pandas
-- ⏳ Day 7 — APIs
-- ⏳ Day 8 — FastAPI
-- ⏳ Day 9 — ML Basics
-- ⏳ Day 10 — RAG + LLM Projects
+- ✅ Variables, Operators, Strings
+- ✅ Lists, Dictionaries
+- ✅ Functions
+- ✅ Loops (going on)
+- ⏳ File Handling
+- ⏳ Pandas
+- ⏳ APIs
+- ⏳ FastAPI
+- ⏳ ML Basics
+- ⏳ RAG + LLM Projects
 
 ## Tech Stack (In Progress)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
