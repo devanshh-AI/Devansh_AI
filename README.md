@@ -14,8 +14,8 @@ Transition into AI Engineering in 12 months!
 - ✅ Variables, Operators, Strings
 - ✅ Lists, Dictionaries
 - ✅ Functions
-- ✅ Loops (going on)
-- ⏳ File Handling
+- ✅ Loops
+- ✅ File Handling (Going on)
 - ⏳ Pandas
 - ⏳ APIs
 - ⏳ FastAPI
