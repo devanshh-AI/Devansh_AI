@@ -16,7 +16,8 @@ Transition into AI Engineering in 12 months!
 - ✅ Functions
 - ✅ Loops
 - ✅ File Handling (Going on)
-- ⏳ Pandas
+- ✅ Pandas
+- ✅  Numpy
 - ⏳ APIs
 - ⏳ FastAPI
 - ⏳ ML Basics
@@ -28,4 +29,4 @@ Transition into AI Engineering in 12 months!
 ![ML](https://img.shields.io/badge/Machine-Learning-orange)
 
 ## Projects
-- 🔨 Coming Soon...
+- See my AI resume screener [https://github.com/devanshh-AI/Devansh_AI/blob/main/practicalproject.py]
